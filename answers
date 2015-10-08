@@ -1,0 +1,33 @@
+answers
+List:
+when i added the circle inside value, it added little circle bullets to the list and moves it to the right
+when i added the circle outside value, it pushed the bullets to the left
+when i added the square value, it made the bullets into black squares
+when i added the none value, it got rid of the bullets
+adding the padding pushed the border in
+the padding left pushed it to the right in
+setting the padding to 0 makes the words right up against the border
+adding the border, padding, margin, and width values make the a dashed black border around each text and push it inside to the right
+setting the display to inline makes the text horizontal in the list inside of vertical
+setting the display to block makes it a vertical list again
+the inline block makes the border around each text in a horizontal list
+
+Columns:
+1.adding the float right property centers the text boxes
+2.adding the left value makes it go to the left
+3.when the div1 goes left and div2 goes right it pushes them to opposite sides of the page
+4.when i set it to 60% it makes one of the boxes underneath the other
+5. to make the percentages both equal, they work at 41%
+6.if the browser gets smaller, the two boxes will go under one another (the right one on top), but if the browser is gets bigger, they stay side by side
+7. when i increase the padding and margin, the right box goes on top of the left. when the border is 0 but there is padding, the boxes are close to the edge of the page but there is space between the color box and text.
+8.
+9. All three columns go together equally at 21%.
+10.
+11.
+12.s
+
+Positioning:
+1.
+2. when i set left to 100px, it pushes the box to the right
+3. when i set right to 100px, it cuts off the words on the left side
+4. 
